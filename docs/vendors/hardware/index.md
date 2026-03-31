@@ -5,6 +5,7 @@ tags:
   - second-party-vendor
 ---
 
+
 # Hardware vendors
 
 This is a **non-curated list** of self-reported vendors from the OpenShock **community**.
